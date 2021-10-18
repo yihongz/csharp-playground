@@ -1,0 +1,11 @@
+D:\ws-csharp\EditorHtml\bin\Debug\netcoreapp2.2\EditorHtml.deps.json
+D:\ws-csharp\EditorHtml\bin\Debug\netcoreapp2.2\EditorHtml.runtimeconfig.json
+D:\ws-csharp\EditorHtml\bin\Debug\netcoreapp2.2\EditorHtml.runtimeconfig.dev.json
+D:\ws-csharp\EditorHtml\bin\Debug\netcoreapp2.2\EditorHtml.dll
+D:\ws-csharp\EditorHtml\bin\Debug\netcoreapp2.2\EditorHtml.pdb
+D:\ws-csharp\EditorHtml\obj\Debug\netcoreapp2.2\EditorHtml.csprojAssemblyReference.cache
+D:\ws-csharp\EditorHtml\obj\Debug\netcoreapp2.2\EditorHtml.csproj.CoreCompileInputs.cache
+D:\ws-csharp\EditorHtml\obj\Debug\netcoreapp2.2\EditorHtml.AssemblyInfoInputs.cache
+D:\ws-csharp\EditorHtml\obj\Debug\netcoreapp2.2\EditorHtml.AssemblyInfo.cs
+D:\ws-csharp\EditorHtml\obj\Debug\netcoreapp2.2\EditorHtml.dll
+D:\ws-csharp\EditorHtml\obj\Debug\netcoreapp2.2\EditorHtml.pdb

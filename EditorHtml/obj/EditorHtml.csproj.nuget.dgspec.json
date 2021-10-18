@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ws-csharp\\EditorHtml\\EditorHtml.csproj": {}
+  },
+  "projects": {
+    "D:\\ws-csharp\\EditorHtml\\EditorHtml.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ws-csharp\\EditorHtml\\EditorHtml.csproj",
+        "projectName": "EditorHtml",
+        "projectPath": "D:\\ws-csharp\\EditorHtml\\EditorHtml.csproj",
+        "packagesPath": "C:\\Users\\Paulo Almeida\\.nuget\\packages\\",
+        "outputPath": "D:\\ws-csharp\\EditorHtml\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Paulo Almeida\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nuget.org": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
