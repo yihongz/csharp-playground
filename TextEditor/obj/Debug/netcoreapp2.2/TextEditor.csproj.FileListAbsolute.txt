@@ -1,0 +1,11 @@
+D:\ws-csharp\TextEditor\bin\Debug\netcoreapp2.2\TextEditor.deps.json
+D:\ws-csharp\TextEditor\bin\Debug\netcoreapp2.2\TextEditor.runtimeconfig.json
+D:\ws-csharp\TextEditor\bin\Debug\netcoreapp2.2\TextEditor.runtimeconfig.dev.json
+D:\ws-csharp\TextEditor\bin\Debug\netcoreapp2.2\TextEditor.dll
+D:\ws-csharp\TextEditor\bin\Debug\netcoreapp2.2\TextEditor.pdb
+D:\ws-csharp\TextEditor\obj\Debug\netcoreapp2.2\TextEditor.csprojAssemblyReference.cache
+D:\ws-csharp\TextEditor\obj\Debug\netcoreapp2.2\TextEditor.csproj.CoreCompileInputs.cache
+D:\ws-csharp\TextEditor\obj\Debug\netcoreapp2.2\TextEditor.AssemblyInfoInputs.cache
+D:\ws-csharp\TextEditor\obj\Debug\netcoreapp2.2\TextEditor.AssemblyInfo.cs
+D:\ws-csharp\TextEditor\obj\Debug\netcoreapp2.2\TextEditor.dll
+D:\ws-csharp\TextEditor\obj\Debug\netcoreapp2.2\TextEditor.pdb
