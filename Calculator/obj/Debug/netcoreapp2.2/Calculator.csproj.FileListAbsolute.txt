@@ -1,0 +1,11 @@
+D:\ws-csharp\Calculator\bin\Debug\netcoreapp2.2\Calculator.deps.json
+D:\ws-csharp\Calculator\bin\Debug\netcoreapp2.2\Calculator.runtimeconfig.json
+D:\ws-csharp\Calculator\bin\Debug\netcoreapp2.2\Calculator.runtimeconfig.dev.json
+D:\ws-csharp\Calculator\bin\Debug\netcoreapp2.2\Calculator.dll
+D:\ws-csharp\Calculator\bin\Debug\netcoreapp2.2\Calculator.pdb
+D:\ws-csharp\Calculator\obj\Debug\netcoreapp2.2\Calculator.csprojAssemblyReference.cache
+D:\ws-csharp\Calculator\obj\Debug\netcoreapp2.2\Calculator.csproj.CoreCompileInputs.cache
+D:\ws-csharp\Calculator\obj\Debug\netcoreapp2.2\Calculator.AssemblyInfoInputs.cache
+D:\ws-csharp\Calculator\obj\Debug\netcoreapp2.2\Calculator.AssemblyInfo.cs
+D:\ws-csharp\Calculator\obj\Debug\netcoreapp2.2\Calculator.dll
+D:\ws-csharp\Calculator\obj\Debug\netcoreapp2.2\Calculator.pdb
